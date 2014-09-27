@@ -1,0 +1,15 @@
+﻿@model Tripadvisor.Models.Hotel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Details","Hotels"))
+{
+    @Html.Label("Enter the Hotel Name")
+    @Html.TextBox("name")
+    <input type="submit" value="search" />
+}
+        

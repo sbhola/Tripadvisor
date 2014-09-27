@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tripadvisor", "Tripadvisor\Tripadvisor.csproj", "{DB58178E-119B-4C3E-8596-386559C15B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tripadvisor.Tests", "Tripadvisor.Tests\Tripadvisor.Tests.csproj", "{8A2B5E15-F007-4D03-86F5-2AEB27A8DFE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripadvisorService", "TripadvisorService\TripadvisorService.csproj", "{C6E1E2A2-3F3B-4351-888A-41D6B6BD6240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbFixtures", "MongoDbFixtures\MongoDbFixtures.csproj", "{2B687279-2606-48E7-A320-AE3E464A803B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB58178E-119B-4C3E-8596-386559C15B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB58178E-119B-4C3E-8596-386559C15B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB58178E-119B-4C3E-8596-386559C15B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB58178E-119B-4C3E-8596-386559C15B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2B5E15-F007-4D03-86F5-2AEB27A8DFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2B5E15-F007-4D03-86F5-2AEB27A8DFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2B5E15-F007-4D03-86F5-2AEB27A8DFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2B5E15-F007-4D03-86F5-2AEB27A8DFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E1E2A2-3F3B-4351-888A-41D6B6BD6240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E1E2A2-3F3B-4351-888A-41D6B6BD6240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E1E2A2-3F3B-4351-888A-41D6B6BD6240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E1E2A2-3F3B-4351-888A-41D6B6BD6240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B687279-2606-48E7-A320-AE3E464A803B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B687279-2606-48E7-A320-AE3E464A803B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B687279-2606-48E7-A320-AE3E464A803B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B687279-2606-48E7-A320-AE3E464A803B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

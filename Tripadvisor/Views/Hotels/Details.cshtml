@@ -1,0 +1,38 @@
+﻿@model Tripadvisor.Models.Hotel
+
+@{
+    ViewBag.Title = @Model.Name;
+}
+
+<h2>@Model.Name</h2>
+
+<fieldset>
+    
+    <div class="display-rating">
+         @Html.DisplayNameFor(model => model.Rating)
+        @Html.DisplayFor(model => model.Rating)
+    </div>
+
+    <div class="display-address">
+        @Html.DisplayFor(model => model.location.Address)
+        @Html.DisplayFor(model => model.location.City)
+        @Html.DisplayFor(model => model.location.Country)
+    </div>    
+</fieldset>
+
+<ul>
+@foreach (var review in @Model.Reviews)
+{
+     <li>
+        <p> @review.Title</p>
+        <p>@review.Description</p>
+        <p>Rating : @review.Rating</p>
+        <p>Added By : @review.AddedByUserName</p>
+        <p>Added At Time : @review.UTCAddedOn</p>
+     </li>   
+}
+</ul>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
