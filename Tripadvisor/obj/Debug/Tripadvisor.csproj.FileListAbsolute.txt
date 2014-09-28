@@ -100,6 +100,5 @@ E:\Git Projects\Tripadvisor\Tripadvisor\bin\DotNetOpenAuth.OAuth.Consumer.xml
 E:\Git Projects\Tripadvisor\Tripadvisor\bin\DotNetOpenAuth.OAuth.xml
 E:\Git Projects\Tripadvisor\Tripadvisor\bin\DotNetOpenAuth.OpenId.xml
 E:\Git Projects\Tripadvisor\Tripadvisor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-E:\Git Projects\Tripadvisor\Tripadvisor\obj\Debug\Tripadvisor.csprojResolveAssemblyReference.cache
 E:\Git Projects\Tripadvisor\Tripadvisor\obj\Debug\Tripadvisor.dll
 E:\Git Projects\Tripadvisor\Tripadvisor\obj\Debug\Tripadvisor.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripadvisorService", "Tripa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbFixtures", "MongoDbFixtures\MongoDbFixtures.csproj", "{2B687279-2606-48E7-A320-AE3E464A803B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchFixtures", "ElasticSearchFixtures\ElasticSearchFixtures.csproj", "{ACABDF5D-8F85-433B-A8B5-FE9926259E99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{2B687279-2606-48E7-A320-AE3E464A803B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B687279-2606-48E7-A320-AE3E464A803B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B687279-2606-48E7-A320-AE3E464A803B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACABDF5D-8F85-433B-A8B5-FE9926259E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACABDF5D-8F85-433B-A8B5-FE9926259E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACABDF5D-8F85-433B-A8B5-FE9926259E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACABDF5D-8F85-433B-A8B5-FE9926259E99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

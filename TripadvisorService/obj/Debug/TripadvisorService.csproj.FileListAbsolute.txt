@@ -6,3 +6,11 @@ C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\Tripa
 C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\TripadvisorService\bin\MongoDB.Driver.xml
 C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\TripadvisorService\obj\Debug\TripadvisorService.dll
 C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\TripadvisorService\obj\Debug\TripadvisorService.pdb
+E:\Git Projects\Tripadvisor\TripadvisorService\bin\TripadvisorService.dll
+E:\Git Projects\Tripadvisor\TripadvisorService\bin\TripadvisorService.pdb
+E:\Git Projects\Tripadvisor\TripadvisorService\bin\MongoDB.Bson.dll
+E:\Git Projects\Tripadvisor\TripadvisorService\bin\MongoDB.Driver.dll
+E:\Git Projects\Tripadvisor\TripadvisorService\bin\MongoDB.Bson.xml
+E:\Git Projects\Tripadvisor\TripadvisorService\bin\MongoDB.Driver.xml
+E:\Git Projects\Tripadvisor\TripadvisorService\obj\Debug\TripadvisorService.dll
+E:\Git Projects\Tripadvisor\TripadvisorService\obj\Debug\TripadvisorService.pdb

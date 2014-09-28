@@ -6,3 +6,11 @@ C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\Mongo
 C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\MongoDbFixtures\bin\Debug\MongoDB.Driver.xml
 C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\MongoDbFixtures\obj\Debug\MongoDbFixtures.dll
 C:\Users\siddharth bhola\Documents\Visual Studio 2012\Projects\Tripadvisor\MongoDbFixtures\obj\Debug\MongoDbFixtures.pdb
+E:\Git Projects\Tripadvisor\MongoDbFixtures\bin\Debug\MongoDbFixtures.dll
+E:\Git Projects\Tripadvisor\MongoDbFixtures\bin\Debug\MongoDbFixtures.pdb
+E:\Git Projects\Tripadvisor\MongoDbFixtures\bin\Debug\MongoDB.Bson.dll
+E:\Git Projects\Tripadvisor\MongoDbFixtures\bin\Debug\MongoDB.Driver.dll
+E:\Git Projects\Tripadvisor\MongoDbFixtures\bin\Debug\MongoDB.Bson.xml
+E:\Git Projects\Tripadvisor\MongoDbFixtures\bin\Debug\MongoDB.Driver.xml
+E:\Git Projects\Tripadvisor\MongoDbFixtures\obj\Debug\MongoDbFixtures.dll
+E:\Git Projects\Tripadvisor\MongoDbFixtures\obj\Debug\MongoDbFixtures.pdb
